@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/FAQ-AI/static/js/main.375ffbb6.chunk.js",
-    "main.js.map": "/FAQ-AI/static/js/main.375ffbb6.chunk.js.map",
+    "main.js": "/FAQ-AI/static/js/main.6d8e17a0.chunk.js",
+    "main.js.map": "/FAQ-AI/static/js/main.6d8e17a0.chunk.js.map",
     "runtime-main.js": "/FAQ-AI/static/js/runtime-main.fdd1970d.js",
     "runtime-main.js.map": "/FAQ-AI/static/js/runtime-main.fdd1970d.js.map",
-    "static/js/2.46a27800.chunk.js": "/FAQ-AI/static/js/2.46a27800.chunk.js",
-    "static/js/2.46a27800.chunk.js.map": "/FAQ-AI/static/js/2.46a27800.chunk.js.map",
+    "static/js/2.797f6808.chunk.js": "/FAQ-AI/static/js/2.797f6808.chunk.js",
+    "static/js/2.797f6808.chunk.js.map": "/FAQ-AI/static/js/2.797f6808.chunk.js.map",
     "index.html": "/FAQ-AI/index.html",
-    "static/js/2.46a27800.chunk.js.LICENSE.txt": "/FAQ-AI/static/js/2.46a27800.chunk.js.LICENSE.txt"
+    "static/js/2.797f6808.chunk.js.LICENSE.txt": "/FAQ-AI/static/js/2.797f6808.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fdd1970d.js",
-    "static/js/2.46a27800.chunk.js",
-    "static/js/main.375ffbb6.chunk.js"
+    "static/js/2.797f6808.chunk.js",
+    "static/js/main.6d8e17a0.chunk.js"
   ]
 }
